@@ -10,4 +10,4 @@
 
 
 	![photo](https://github.com/user-attachments/assets/27fd89e7-d6c3-4b97-aaff-af533dfc173f)
-
+ <a href="https://wa.me/7771303169" class="button" target="_blank" rel="noopener noreferrer">Заказать консультацию</a>
